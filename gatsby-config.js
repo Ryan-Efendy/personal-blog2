@@ -5,7 +5,7 @@ module.exports = {
       name: `Ryan Efendy`,
       summary: `Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft. Basketball and coffee lover. Love God, love neighbor, yo — that's my motto.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Pray more. Worry less.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `_ryanefendy`,
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
