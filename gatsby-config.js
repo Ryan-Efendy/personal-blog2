@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `everything but the bagel🧂`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ryan Efendy`,
+      summary: `Deeply flawed human, deeply loved by Jesus. Software Engineer at Microsoft. Basketball and coffee lover. Love God, love neighbor, yo — that's my motto.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_ryanefendy`,
     },
   },
   plugins: [
